@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008797321514",
+    "firebase_url": "https://techfirm-co-jp-api-project-1008797321514.firebaseio.com",
+    "project_id": "techfirm.co.jp:api-project-1008797321514",
+    "storage_bucket": "techfirm.co.jp:api-project-1008797321514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008797321514:android:63b195acc2035c9e",
+        "android_client_info": {
+          "package_name": "com.ys.raspberrypi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008797321514-f3faaaahe1ckupv2e96bvvre9svd4q9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ys.raspberrypi",
+            "certificate_hash": "5d551e12e718a73d3ce25994c25d6d37c6ca6b0b"
+          }
+        },
+        {
+          "client_id": "1008797321514-52o7qi1djbccdps8csf4qk77lu9q92p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDip7OxbWXhMrW14boL-JXGYhKjpHY-lJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008797321514-52o7qi1djbccdps8csf4qk77lu9q92p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
