@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/raspberrypi.iml" filepath="$PROJECT_DIR$/raspberrypi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/raspberrypi.iml" filepath="$PROJECT_DIR$/.idea/raspberrypi.iml" />
+      <module fileurl="file://C:\Users\oremo\AndroidStudioProjects\raspberrypi\raspberrypi.iml" filepath="C:\Users\oremo\AndroidStudioProjects\raspberrypi\raspberrypi.iml" />
     </modules>
   </component>
 </project>
